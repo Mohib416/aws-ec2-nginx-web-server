@@ -120,35 +120,35 @@ http://16.171.13.38
 
 ### ⚙️ EC2 Instance Creation
 
-![EC2 Creation](screenshots/1-ec2-launch.png)
+![EC2 Creation](1-ec2-launch.png)
 
 ### 🔐 Key Pair Creation
 
-![Key Pair](screenshots/2-keypair.png)
+![Key Pair](2-keypair.png)
 
 ### 🛡️ Security Group Configuration
 
-![Security Group](screenshots/3-security-group.png)
+![Security Group](3-security-group.png)
 
 ### ☁️ EC2 Running
 
-![EC2 Running](screenshots/4-ec2-running.png)
+![EC2 Running](4-ec2-running.png)
 
 ### 💻 Installing Nginx
 
-![Install Nginx](screenshots/5-install-nginx.png)
+![Install Nginx](5-install-nginx.png)
 
 ### ✅ Nginx Running
 
-![Nginx Running](screenshots/6-nginx-running.png)
+![Nginx Running](6-nginx-running.png)
 
 ### 📁 Nginx Directory
 
-![Nginx Folder](screenshots/7-nginx-folder.png)
+![Nginx Folder](7-nginx-folder.png)
 
 ### 📝 HTML Code
 
-![HTML Code](screenshots/8-html-code.png)
+![HTML Code](8-html-code.png)
 
 ---
 
