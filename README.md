@@ -116,7 +116,7 @@ http://16.171.13.38
 
 ### 🌐 Live Website
 
-![Live Website](screenshots/9-live-website.png)
+![Live Website](9-live-website.png)
 
 ### ⚙️ EC2 Instance Creation
 
